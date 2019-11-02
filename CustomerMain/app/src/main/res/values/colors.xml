@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6002ee</color>
+    <color name="colorPrimaryDark">#0000ba</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="soldOut">#d50000</color>
+    <color name="available">#00c853</color>
+    <color name="white">#0000ba</color>
+    <color name="yellow">#FFFFFF</color>
+</resources>
